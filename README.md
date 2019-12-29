@@ -12,7 +12,7 @@ Google's WebP image format offers better compression compared to PNG or JPEG, al
 
 ###The CocoaPods Way
 ```ruby
-pod 'iOS-WebP', '0.5'
+pod 'iOS-WebP-redistributed', '0.5r'
 ```
 
 #Usage
