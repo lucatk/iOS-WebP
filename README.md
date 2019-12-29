@@ -1,5 +1,7 @@
 #iOS-WebP
 
+## This version is being redistributed since the original author has been inactive in the past. As of now there have been no code changes since the last release!
+
 Most apps nowadays enhance user experience with the use of images, and one of the issues I've noticed with that is the amount of time it takes to load an image. (_Not everyone has the luxury of a fast connection_)
 
 Google's WebP image format offers better compression compared to PNG or JPEG, allowing apps to send/retrieve images with smaller file sizes, reducing request times and hopefully provide a better user experience.
